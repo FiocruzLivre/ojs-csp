@@ -20,7 +20,7 @@ Instale o sistema OJS conforme [documentação](https://docs.pkp.sfu.ca/dev/docu
 
    - [CspTheme ](https://github.com/FiocruzLivre/ojs-csp-theme)
    - [CspUser](https://github.com/FiocruzLivre/ojs-csp-user)
-   - [CspSubmission](https://github.com/FiocruzLivre/ojs-csp-user  )
+   - [CspSubmission](https://github.com/FiocruzLivre/ojs-csp-submission)
    - [CspWorkflow](https://github.com/FiocruzLivre/ojs-csp-workflow)
    - [CspMail](https://github.com/FiocruzLivre/ojs-csp-mail)
 
